@@ -1,0 +1,3 @@
+# author of some Python packages, doesn't want OS maintainers to package them for dependents, refuses to explain why
+# https://github.com/NixOS/nixpkgs/pull/126326
+frenck
