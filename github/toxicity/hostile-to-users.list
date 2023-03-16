@@ -1,0 +1,7 @@
+# 95% of the issue tracker is "closed as duplicate", but it's because the first
+# time someone suggests an idea, it gets turned down and discussion locked, so
+# nobody can even articulate why it suits their use case. subsequent discussions
+# are closed within 30 seconds. honestly feels like the maintainer has no
+# interest in building software for other people
+# https://github.com/pre-commit/pre-commit/issues
+asottile
